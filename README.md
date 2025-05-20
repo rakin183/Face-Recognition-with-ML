@@ -20,3 +20,4 @@ Use `input_image.m` script to predict the faces on an image.
 # Results
 ## image inference
 <img src="Rakin.png" />
+<img src="touhid-saheeb.jpg" />
